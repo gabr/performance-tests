@@ -1,0 +1,11 @@
+C:\Users\gabr\Documents\Programming\performance-tests\cs\bin\Release\netcoreapp2.2\cs.deps.json
+C:\Users\gabr\Documents\Programming\performance-tests\cs\bin\Release\netcoreapp2.2\cs.runtimeconfig.json
+C:\Users\gabr\Documents\Programming\performance-tests\cs\bin\Release\netcoreapp2.2\cs.runtimeconfig.dev.json
+C:\Users\gabr\Documents\Programming\performance-tests\cs\bin\Release\netcoreapp2.2\cs.dll
+C:\Users\gabr\Documents\Programming\performance-tests\cs\bin\Release\netcoreapp2.2\cs.pdb
+C:\Users\gabr\Documents\Programming\performance-tests\cs\obj\Release\netcoreapp2.2\cs.csprojAssemblyReference.cache
+C:\Users\gabr\Documents\Programming\performance-tests\cs\obj\Release\netcoreapp2.2\cs.csproj.CoreCompileInputs.cache
+C:\Users\gabr\Documents\Programming\performance-tests\cs\obj\Release\netcoreapp2.2\cs.AssemblyInfoInputs.cache
+C:\Users\gabr\Documents\Programming\performance-tests\cs\obj\Release\netcoreapp2.2\cs.AssemblyInfo.cs
+C:\Users\gabr\Documents\Programming\performance-tests\cs\obj\Release\netcoreapp2.2\cs.dll
+C:\Users\gabr\Documents\Programming\performance-tests\cs\obj\Release\netcoreapp2.2\cs.pdb
